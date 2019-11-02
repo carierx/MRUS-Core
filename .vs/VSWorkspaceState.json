@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AutoUpdater",
+    "\\MRUS.Core",
+    "\\MRUS.Core\\bin",
+    "\\MRUS.Core\\bin\\Debug",
+    "\\MRUS.Core\\bin\\Release",
+    "\\MRUS.Core\\Contract",
+    "\\MRUS.Server"
+  ],
+  "SelectedNode": "\\AutoUpdater\\MainForm.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}
