@@ -1,11 +1,18 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdater", "AutoUpdater\AutoUpdater.csproj", "{5F320D65-5B96-4D12-88BD-FEAD99BC2B8B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRUS.Core", "MRUS.Core\MRUS.Core.csproj", "{44B0583B-F58E-4EC2-9255-454546222C66}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRUS.Server", "MRUS.Server\MRUS.Server.csproj", "{7EB9FF34-A3E9-43B8-8EBC-1F44BB910BE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FCEBD042-5D06-42C7-8EBA-D361FE4662FC}"
+	ProjectSection(SolutionItems) = preProject
+		AutoUpdater\bin\Debug\AutoUpdater.exe.config = AutoUpdater\bin\Debug\AutoUpdater.exe.config
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -50,5 +57,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F2525BE-7CFF-40F4-981F-C2959EF70769}
 	EndGlobalSection
 EndGlobal
